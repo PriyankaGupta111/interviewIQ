@@ -4,6 +4,12 @@ An AI-powered interview preparation platform built using the MERN stack that hel
 
 ---
 
+
+## 🚀 Live Demo
+🔗 https://interviewiqclient.onrender.com
+
+---
+
 ## 🚀 Features
 
 - 🔐 User Authentication with Google Login
